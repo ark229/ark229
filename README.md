@@ -1,5 +1,5 @@
+![1coverphotologo](https://user-images.githubusercontent.com/40047791/170136220-61485add-664a-4703-930f-1c82c9ca1a05.png)
 
-![Modern Technology Business Logo (Facebook Cover)](https://user-images.githubusercontent.com/40047791/170136100-ecd1ab99-dbbb-4602-9315-850a252b646c.png)
 
 # My name is Arnetta 👋
 
