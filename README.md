@@ -1,4 +1,4 @@
-#My name is Arnetta & I'm and Information Manager, Software Engineer, & Web Developer 👋
+####My name is Arnetta & I'm and Information Manager, Software Engineer, & Web Developer 👋
 
 ##Currently learning, Growing, and Building...
 
