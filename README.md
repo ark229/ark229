@@ -1,4 +1,7 @@
-# My name is Arnetta & I'm an Information Manager, Software Engineer, & Web Developer 👋
+
+![Modern Technology Business Logo (Facebook Cover)](https://user-images.githubusercontent.com/40047791/170136100-ecd1ab99-dbbb-4602-9315-850a252b646c.png)
+
+# My name is Arnetta 👋
 
 ### Currently learning, Growing, and Building...
 
