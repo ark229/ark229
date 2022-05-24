@@ -1,6 +1,5 @@
-### My name is Arnetta & I'm and Information Manager, Software Engineer, & Web Developer 👋
+#My name is Arnetta & I'm and Information Manager, Software Engineer, & Web Developer 👋
 
-Currently learning, Growing, and Building...
+##Currently learning, Growing, and Building...
 
-https://user-images.githubusercontent.com/40047791/170128824-2c74a518-b6e1-4209-9f53-114b6faa3fc7.mp4
-
+![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
