@@ -7,6 +7,9 @@
 
 ![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
 
+<br>
+<br>
+
 ### I have worked with:
 <p>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat">
@@ -33,3 +36,21 @@
   <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat">
   <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">
 </p>
+
+<br>
+<br>
+<br>
+
+![1highlighted](https://user-images.githubusercontent.com/40047791/170397212-fac91e27-0c0b-406b-8073-9c474d37da47.png)
+
+<br>
+<br>
+
+## Little Tots Daycare Revamped
+<p>
+  This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.
+</p>
+
+https://user-images.githubusercontent.com/40047791/170398013-4082f1cd-3378-428f-9dea-57523fc7ccf8.mp4
+
+**View the project site:** https://littletotsdaycare.netlify.app/
