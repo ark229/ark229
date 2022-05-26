@@ -7,7 +7,7 @@
 
 ![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
 
-## I have worked with:
+### I have worked with:
 <p>
   <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat">
   <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat">
@@ -24,4 +24,12 @@
   <img alt="Boostrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?logo=boostrap&logoColor=white&style=flat">
 </p>
 
-
+### Version Control & Development Tools used:
+<p>
+  <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat">
+  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat">
+  <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat">
+  <img alt="Visual Studio" src ="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat">
+  <img alt="PyCharm" src ="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat">
+  <img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat">
+</p>
