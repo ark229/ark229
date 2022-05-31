@@ -9,6 +9,15 @@
 
 ### Find out more at: https://knightdevonline.com
 
+## Find me on Social Media!
+<p>
+  
+  <a href="https://twitter.com/ArnettaReneeDev"><img src="https://img.icons8.com/color/80/000000/twitter--v1.png"/></a>
+  <a href="https://www.facebook.com/knightdevonline/"><img src="https://img.icons8.com/color/80/000000/facebook-new.png"/></a>
+  <a href="https://www.linkedin.com/in/arnetta-knight/"><img src="https://img.icons8.com/color/80/000000/linkedin-circled--v1.png"/></a>
+  
+</p>
+
 <br>
 <br>
 
