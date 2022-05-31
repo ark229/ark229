@@ -84,7 +84,7 @@
 
 <br>
 
-[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ark229&theme=omni)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ark229&theme=omni)](https://git.io/streak-stats)
 
 ##
 
