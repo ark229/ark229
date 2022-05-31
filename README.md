@@ -3,9 +3,11 @@
 
 # My name is Arnetta 👋
 
-### I am currently learning, Growing, and Building! Find out more at: https://knightdevonline.com
+### I am currently learning, Growing, and Building! 
 
 ![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
+
+### Find out more at: https://knightdevonline.com
 
 <br>
 <br>
