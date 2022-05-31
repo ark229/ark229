@@ -3,7 +3,7 @@
 
 # My name is Arnetta 👋
 
-### I am currently learning, Growing, and Building!
+### I am currently learning, Growing, and Building! Find out more at: https://knightdevonline.com
 
 ![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
 
@@ -51,6 +51,6 @@
   This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.
 </p>
 
-https://user-images.githubusercontent.com/40047791/170398013-4082f1cd-3378-428f-9dea-57523fc7ccf8.mp4
+![12ezgif-3-3cc2c17251](https://user-images.githubusercontent.com/40047791/171082434-42e418b5-b30a-491d-bd8d-77ae38cd9484.gif)
 
 **View the project site:** https://littletotsdaycare.netlify.app/
