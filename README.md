@@ -60,7 +60,7 @@
 <br>
 <br>
 
-## Little Tots Daycare Revamped
+##  :family: Little Tots Daycare Revamped
 <p>
   This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.
 </p>
@@ -68,3 +68,20 @@
 ![12ezgif-3-3cc2c17251](https://user-images.githubusercontent.com/40047791/171082434-42e418b5-b30a-491d-bd8d-77ae38cd9484.gif)
 
 **View the project site:** https://littletotsdaycare.netlify.app/
+##
+<br>
+<br>
+
+## :hibiscus: Serenity Coaching Services
+<p>
+  Serenity Coaching is a wellness professional group that helps people make progress in their lives in order to attain greater fulfillment. They aid their     clients in improving their relationships, careers, and day-to-day lives. The website is fully responsive to mobile, tablet, and desktop access. 
+</p>
+
+![ezgif-2-a784b029fb](https://user-images.githubusercontent.com/40047791/171086034-b00bd590-16e0-4367-b398-b03ab6d05180.gif)
+
+**View the project site:** https://serenity-coaching.netlify.app/
+##
+
+
+
+
