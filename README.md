@@ -60,7 +60,7 @@
 <br>
 <br>
 
-##  :family: Little Tots Daycare Revamped
+## :baby: Little Tots Daycare Revamped
 <p>
   This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.
 </p>
