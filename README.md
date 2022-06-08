@@ -124,7 +124,7 @@
 
 ## 🏆 Advanced Tic-Tac-Toe
 <p>
-  If you have some time to spare you can challenge yourself with this advanced, but classic game of tic-tac-toe. BEAT THE AI! This was created using HTML,     CSS, JavaScript, and a Minimax algorithm.  
+  If you have some time to spare you can challenge yourself with this advanced, but classic game of tic-tac-toe. BEAT THE BOT!! This was created using HTML,     CSS, JavaScript, and a Minimax algorithm.  
  </p>
  
  ![tictactoe-demoGIF](https://user-images.githubusercontent.com/40047791/172535686-a24a4b7e-9026-4c6d-baa0-e5e6bba64221.gif)
