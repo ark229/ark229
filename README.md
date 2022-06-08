@@ -1,7 +1,7 @@
 ![1coverphotologo](https://user-images.githubusercontent.com/40047791/170136220-61485add-664a-4703-930f-1c82c9ca1a05.png)
 
 
-# My name is Arnetta 👋
+# My name is Arnetta 👋🏽
 
 ### I am currently Learning, Growing, and Building! 
 
@@ -81,11 +81,25 @@
 
 **View the project site:** https://serenity-coaching.netlify.app/
 ##
+<br>
+<br>
+
+## 💇🏽‍♀️ Elite Hair Salon
+<p>
+  Elite Hair is a full service beauty salon specializing in natural hair care, protective styling, and natural hair education and training. This website is     fully responsive to mobile, tablet, and desktop access. 
+ </p>
+ 
+ ![ezgif-2-263c40d9ac](https://user-images.githubusercontent.com/40047791/172531174-3c9e4eed-60cc-48aa-9889-4bc7fbcf9d80.gif)
+
+**View the project site:** https://elitehairsuffolk.netlify.app/
 
 <br>
+
+## My Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ark229&theme=omni)](https://git.io/streak-stats)
 
 ##
+
 
 
