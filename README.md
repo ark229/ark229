@@ -92,6 +92,19 @@
  ![ezgif-2-263c40d9ac](https://user-images.githubusercontent.com/40047791/172531174-3c9e4eed-60cc-48aa-9889-4bc7fbcf9d80.gif)
 
 **View the project site:** https://elitehairsuffolk.netlify.app/
+##
+<br>
+<br>
+
+## ☕ The Coffee Bean
+<p>
+  The Coffee Bean is an artisan coffee shop that specializes in various exotic coffee blends and teas. This website is fully responsive to mobile, tablet,     and desktop access. 
+ </p>
+ 
+![coffeebean-demoGIF](https://user-images.githubusercontent.com/40047791/172533754-920f8978-d130-4512-b45d-469ddc2cb9ed.gif)
+
+
+**View the project site:** https://thecoffeebean.netlify.app/index.html
 
 <br>
 
