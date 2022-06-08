@@ -105,6 +105,33 @@
 
 
 **View the project site:** https://thecoffeebean.netlify.app/index.html
+##
+<br>
+<br>
+
+## 🧮 A Very Very Pink Calculator
+<p>
+  The name pretty much speaks for itself. This is a very pink web-based calculator I created using HTML, CSS, and JavaScript. 
+ </p>
+ 
+![pinkCalc-demoGIF](https://user-images.githubusercontent.com/40047791/172534537-5feb7cc4-d747-4723-bba1-77c77ad02d8c.gif)
+
+
+**View the project site:** https://ark229.github.io/calculator/
+##
+<br>
+<br>
+
+## 🏆 Advanced Tic-Tac-Toe
+<p>
+  If you have some time to spare you can challenge yourself with this advanced, but classic game of tic-tac-toe. BEAT THE AI! This was created using HTML,     CSS, JavaScript, and a Minimax algorithm.  
+ </p>
+ 
+ ![tictactoe-demoGIF](https://user-images.githubusercontent.com/40047791/172535686-a24a4b7e-9026-4c6d-baa0-e5e6bba64221.gif)
+
+
+**View the project site:** https://ark229.github.io/tictactoe-advanced/
+
 
 <br>
 
