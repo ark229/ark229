@@ -69,8 +69,9 @@
 
 
 <h1 align="center"> :baby: Little Tots Daycare Revamped </h1>
-<p align="center">
-  This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.
+
+  <p align="center">
+  <h3>This is one my projects called Little Tots Daycare (Revamped). I gave one of my older projects a much needed facelift and implemented more UX Design-based  principles for a better overall user experience. The website is fully responsive and is accessible on all devices.</h3>
 </p>
 
 <p align="center">
@@ -87,8 +88,9 @@
 <br>
 
   <h1 align="center"> :hibiscus: Serenity Coaching Services </h1>
+
 <p align="center">
-  Serenity Coaching is a wellness professional group that helps people make progress in their lives in order to attain greater fulfillment. They aid their     clients in improving their relationships, careers, and day-to-day lives. The website is fully responsive to mobile, tablet, and desktop access. 
+  <h3>Serenity Coaching is a wellness professional group that helps people make progress in their lives in order to attain greater fulfillment. They aid their clients in improving their relationships, careers, and day-to-day lives. The website is fully responsive to mobile, tablet, and desktop access.<h3> 
 </p>
 
  <p align="center">
@@ -107,7 +109,7 @@
  <h1 align="center"> 💇🏽‍♀️ Elite Hair Salon </h1>
 
  <p align="center">
-  Elite Hair is a full service beauty salon specializing in natural hair care, protective styling, and natural hair education and training. This website is     fully responsive to mobile, tablet, and desktop access. 
+  <h3>Elite Hair is a full service beauty salon specializing in natural hair care, protective styling, and natural hair education and training. This website is fully responsive to mobile, tablet, and desktop access. </h3>
  </p>
  
   <p align="center">
@@ -124,8 +126,9 @@
 <br>
 
   <h1 align="center"> ☕ The Coffee Bean </h1>
+
 <p align="center">
-  The Coffee Bean is an artisan coffee shop that specializes in various exotic coffee blends and teas. This website is fully responsive to mobile, tablet,     and desktop access. 
+  <h3>The Coffee Bean is an artisan coffee shop that specializes in various exotic coffee blends and teas. This website is fully responsive to mobile, tablet, and desktop access. </h3>
  </p>
  
   <p align="center">
@@ -142,8 +145,9 @@
 <br>
 
   <h1 align="center"> 🧮 A Very Very Pink Calculator </h1>
+
 <p align="center">
-  The name pretty much speaks for itself. This is a very pink web-based calculator I created using HTML, CSS, and JavaScript. 
+  <h3>The name pretty much speaks for itself. This is a very pink web-based calculator I created using HTML, CSS, and JavaScript.</h3> 
  </p>
  
   <p align="center">
@@ -160,8 +164,9 @@
 <br>
 
   <h1 align="center"> 🏆 Advanced Tic-Tac-Toe </h1>
+
 <p align="center">
-  If you have some time to spare you can challenge yourself with this advanced, but classic game of tic-tac-toe. BEAT THE BOT!! This was created using HTML,     CSS, JavaScript, and a Minimax algorithm.  
+  <h3>If you have some time to spare you can challenge yourself with this advanced, but classic game of tic-tac-toe. BEAT THE BOT!! This was created using HTML, CSS, JavaScript, and a Minimax algorithm. </h3>
  </p>
  
   <p align="center">
@@ -175,7 +180,7 @@
 
 <br>
 
-## My Streak Stats
+<h1 align="center"> My Streak Stats</h1>
 
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ark229&theme=omni" />
