@@ -1,14 +1,19 @@
+
+
+  
 ![1coverphotologo](https://user-images.githubusercontent.com/40047791/170136220-61485add-664a-4703-930f-1c82c9ca1a05.png)
 
 
-#   ![Vanilla-6 3s-919px](https://user-images.githubusercontent.com/40047791/172711642-28eaf270-f83c-4beb-a616-5ab1ceb73292.gif)
+# ![Vanilla-6 3s-919px](https://user-images.githubusercontent.com/40047791/172711642-28eaf270-f83c-4beb-a616-5ab1ceb73292.gif) 
 
 
-### 👋🏽 I am currently Learning, Growing, and Building! 
+<h1 align="center"> 👋🏽 I am currently Learning, Growing, and Building! </h1>
 
+ 
 ![1ezgif-3-9eebc3d470](https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif)
 
-### Find out more at: https://knightdevonline.com
+
+<h3 align="center"> Find out more at: https://knightdevonline.com </h3>
 
 <br>
 
