@@ -147,7 +147,7 @@
 <h1 align="center"> 🧁 Sweet Tooth Bakery Rush </h1>
 
 <p align="center">
-  <h3 align="center">A time management game created using the scratch programming language I created for fun. The player is given 60 seconds to select 30 desserts for the owner Brenda. The player will receive 1 point for each dessert that they click on. If they click (or touch) food items that are not desserts they will lose points. Its fun! Trust me go try it! </h3>
+  <h3 align="center">A time management game created using the scratch programming language. I created it for fun. The player is given 60 seconds to select 30 desserts for the owner Brenda. The player will receive 1 point for each dessert that they click on. If they click (or touch) food items that are not desserts they will lose points. Its fun! Trust me go try it! </h3>
  </p>
  
   <p align="center">
