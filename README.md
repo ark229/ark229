@@ -144,6 +144,26 @@
 <br>
 <br>
 
+<h1 align="center"> 🧁 Sweet Tooth Bakery Rush </h1>
+
+<p align="center">
+  <h3 align="center">A time management game created using the scratch programming language. The player is given 60 seconds to select 30 desserts for the owner Brenda. The player will receive 1 point for each dessert that they click on. If they click (or touch) food items that are not desserts they will lose points. Its fun, trust me go try it! </h3>
+ </p>
+ 
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/40047791/173210213-97c1eeac-4090-41fe-ba5b-410dd5c177d8.gif" />
+
+  </p>
+  
+   <p align="center">
+  <a href="https://github.com/ark229/Sweet-Tooth-Bakery-Rush"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
+  <a href="https://scratch.mit.edu/projects/318136638/fullscreen/"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
+</p>
+  
+##
+<br>
+<br>
+
   <h1 align="center"> 🧮 A Very Very Pink Calculator </h1>
 
 <p align="center">
