@@ -198,6 +198,28 @@
   <a href="https://ark229.github.io/tictactoe-advanced/"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
 </p>
 
+##
+<br>
+<br>
+
+  <h1 align="center"> :palm_tree: Linktree Clone </h1>
+
+<p align="center">
+  <h3 align="center">This is a Linktree Clone. Linktree is a social media reference landing page that allows you to share multiple links on social media.
+    The tools used for this project was HTML and CSS. The site is fully responsive.
+    </h3>
+ </p>
+ 
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/40047791/178816938-776db7bc-7e21-4f08-8ea8-01bf5ef2aaa1.gif" />
+
+  </p>
+  
+  <p align="center">
+  <a href="https://github.com/ark229/Linktree-Clone"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
+  <a href="https://ark229.github.io/Linktree-Clone/"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
+</p>
+
 <br>
 
 <h1 align="center"> My Streak Stats</h1>
