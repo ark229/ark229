@@ -14,6 +14,7 @@
 </p>
 
 <h3 align="center"> Find out more at: https://knightdevonline.com </h3>
+<h3 align="center">Need a Tutor/Instructor: https://www.varsitytutors.com/tutors/879218958 </h3>
 
 <br>
 
