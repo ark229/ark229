@@ -14,7 +14,7 @@
 </p>
 
 <h3 align="center"> Find out more at: https://knightdevonline.com </h3>
-<h3 align="center">I Teach Intro to Computer Science with Python and Scratch for beginners. I'm also tutor here and there!</h3>
+<h3 align="center">I Teach Intro to Computer Science with Python and Scratch for beginners. I also tutor sometimes!</h3>
 
 <br>
 
