@@ -9,15 +9,14 @@
 
 <h1 align="center"> 👋🏽 I am currently Learning, Growing, and Building! </h1>
 
-<h3 align="center">
-   MY RESUME: [Resume-Knight-2-2-1.pdf](https://github.com/ark229/ark229/files/9429522/Resume-Knight-2-2-1.pdf)
-</h3>
-
 <p align="center">
    <img src="https://user-images.githubusercontent.com/40047791/170129398-c1aab7f7-1901-4777-a47d-231ee012318d.gif" />
 </p>
 
 <h3 align="center"> Find out more at: https://knightdevonline.com </h3>
+<h3 align="center">
+   MY RESUME: https://github.com/ark229/ark229/files/9429522/Resume-Knight-2-2-1.pdf
+</h3>
 <h3 align="center">I Teach Intro to Computer Science with Python and Scratch for beginners. I also tutor sometimes!</h3>
 
 <br>
