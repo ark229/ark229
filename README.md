@@ -92,6 +92,26 @@
 <br>
 <br>
 
+<h1 align="center"> :tv: Barter Bin Web Application </h1>
+
+  <p align="center">
+    <h3 align="center">To barter means to trade goods and services for other goods and services. Barter Bin is a unique web application that allows users to trade their goods and services with each other without the need for cash and other currency. Barter Bin introduces an alternative to traditional cash-based transactions.</h3>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ark229/ark229/assets/40047791/91325316-f3c9-4320-880e-72f60eb594a5.gif" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/ark229/BarterBin-WebApplication"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
+  <a href="https://barter-bin.herokuapp.com/"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
+</p>
+
+##
+<br>
+<br>
+
   <h1 align="center"> :hibiscus: Serenity Coaching Services </h1>
 
 <p align="center">
