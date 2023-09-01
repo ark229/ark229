@@ -15,9 +15,9 @@
 
 <h3 align="center"> Find out more at: https://knightdevonline.com </h3>
 <h3 align="center">
-   MY RESUME: https://github.com/ark229/ark229/files/12494595/1-Resume-Knight-2-PA.pdf
-
+   MY RESUME: https://github.com/ark229/ark229/files/12494601/1-Resume-Knight-3-PA.pdf
 </h3>
+
 <h3 align="center">I Teach Computer Science with Python and Java, Web Development, and Scratch for beginners. I also tutor grades K-12 sometimes!</h3>
 
 <br>
