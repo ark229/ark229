@@ -149,7 +149,7 @@
 ##
 <br>
 <br>
-
+<!---
   <h1 align="center"> ☕ The Coffee Bean </h1>
 
 <p align="center">
@@ -167,8 +167,8 @@
   
 ##
 <br>
-<br>
-
+<br> 
+--->
 <h1 align="center"> 🧁 Sweet Tooth Bakery Rush </h1>
 
 <p align="center">
