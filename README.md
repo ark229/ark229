@@ -18,7 +18,7 @@
    MY RESUME: https://github.com/ark229/ark229/files/12494601/1-Resume-Knight-3-PA.pdf
 </h3>
 
-<h3 align="center">I Teach Computer Science with Python and Java, Web Development, and Scratch for beginners. I also tutor grades K-12 sometimes!</h3>
+<h3 align="center"> I'm a Records & Information Manager (Enterprise IT Services) who also teaches Computer Science with Python and Java, Web Development, and Scratch for beginners. I also tutor grades K-12 sometimes!</h3>
 
 <br>
 
