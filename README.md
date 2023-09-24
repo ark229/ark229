@@ -148,25 +148,7 @@
 ##
 <br>
 <br>
-<!---
-  <h1 align="center"> ☕ The Coffee Bean </h1>
 
-<p align="center">
-  <h3 align="center">The Coffee Bean is an artisan coffee shop that specializes in various exotic coffee blends and teas. This website is fully responsive to mobile, tablet, and desktop access. </h3>
- </p>
- 
-  <p align="center">
-    <img src="https://user-images.githubusercontent.com/40047791/172533754-920f8978-d130-4512-b45d-469ddc2cb9ed.gif" />
-  </p>
-  
-   <p align="center">
-  <a href="https://github.com/ark229/coffeebeancafe"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
-  <a href="https://thecoffeebean.netlify.app/index.html"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
-</p>
-  
-<br>
-<br> 
---->
 <h1 align="center"> 🧁 Sweet Tooth Bakery Rush </h1>
 
 <p align="center">
