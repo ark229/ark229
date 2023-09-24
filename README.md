@@ -114,7 +114,7 @@
   <h1 align="center"> :hibiscus: Serenity Coaching Services </h1>
 
 <p align="center">
-  <h3 align="center">Serenity Coaching is a wellness professional group that helps people make progress in their lives in order to attain greater fulfillment. They aid their clients in improving their relationships, careers, and day-to-day lives. The website is fully responsive to mobile, tablet, and desktop access.<h3> 
+  <h3 align="center">Serenity Coaching is a wellness professional group that helps people make progress in their lives in order to attain greater fulfillment. They aid their clients in improving their relationships, careers, and day-to-day lives. The website is fully responsive to mobile, tablet, and desktop access.</h3> 
 </p>
 
  <p align="center">
