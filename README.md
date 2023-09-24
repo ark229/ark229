@@ -119,7 +119,7 @@
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/40047791/171086034-b00bd590-16e0-4367-b398-b03ab6d05180.gif" />
-  </p>
+</p>
   
 <p align="center">
   <a href="https://github.com/ark229/Serenity-Life-Coaching"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
