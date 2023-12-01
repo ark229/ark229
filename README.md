@@ -177,6 +177,26 @@
 <br>
 <br>
 
+ <h1 align="center"> 🎮 Bored Trivia Quiz Game </h1>
+
+<p align="center">
+  <h3 align="center">This is a quiz game created with the Java Swing Framework. There is a 10 second timer for each question. You can play the game as many times as you want.</h3> 
+ </p>
+ 
+  <p align="center">
+  <img src= https://github.com/ark229/ark229/assets/40047791/566a1d4b-5b5a-462d-889e-e7928649f060 />
+
+  </p>
+  
+  <p align="center">
+  <a href="https://github.com/ark229/Bored-Trivia-Quiz-Game"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
+  <a href="#"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
+</p>
+   
+##
+<br>
+<br>
+
   <h1 align="center"> 🧮 A Very Very Pink Calculator </h1>
 
 <p align="center">
