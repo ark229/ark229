@@ -23,16 +23,18 @@
 
 <h1 align="center"> 👩🏾‍🎓 Education: </h1>
 
-
 <p align="center">
- 1. Bachelors Degree - Colorado State University Global - Management Information Systems and Business Analytics, Specialization in IT Management
+ 1. Associates Degree - Thomas Nelson Community College - Administrative Support Technology & Medical Office Administration
 </p>
 <p align="center">
- 2. Masters Degree - Maryville University of Saint Louis - Software Development. 
+ 2. Bachelors Degree - Colorado State University Global - Management Information Systems and Business Analytics, Specialization in IT Management
+</p>
+<p align="center">
+ 3. Masters Degree - Maryville University of Saint Louis - Software Development. 
 </p>
 </p>
 <p align="center">
- 3. Doctoral Student - Franklin University - Doctor of Business Adminstration, Information Technology Focus 
+ 4. Doctoral Student - Franklin University - Doctor of Business Adminstration, Information Technology Focus 
 </p>
 
 
