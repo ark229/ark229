@@ -23,9 +23,18 @@
 
 <h1 align="center"> 👩🏾‍🎓 Education: </h1>
 
+
 <p align="center">
- I have Bachelors Degree in Management Information Systems and Business Analytics with a Minor in Information Technology Management from Colorado State University Global. I also have a Masters Degree from Maryville University in Software Development. 
+ 1. Bachelors Degree - Colorado State University Global - Management Information Systems and Business Analytics, Specialization in IT Management
 </p>
+<p align="center">
+ 2. Masters Degree - Maryville University of Saint Louis - Software Development. 
+</p>
+</p>
+<p align="center">
+ 3. Doctoral Student - Franklin University - Doctor of Business Adminstration, Information Technology Focus 
+</p>
+
 
 <br>
 
