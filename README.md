@@ -130,6 +130,27 @@
 <br>
 <br>
 
+<h1 align="center"> 👗 Wonderful Management - Brand Management Company </h1>
+
+  <p align="center">
+    <h3 align="center">This project presents the official website for Wonderful Management, LLC, a dynamic brand management company. The website is designed to showcase the company's expertise in elevating the brands of influencers, creators, emerging stars, and professionals.</h3>
+</p>
+
+<p align="center">
+
+<img src="https://github.com/ark229/ark229/assets/40047791/6f3896da-56ee-451c-b91a-390631bdab09.gif" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/ark229/wonderful-brand"><img src="https://user-images.githubusercontent.com/40047791/172758036-2af543c8-9c7d-4897-8bc7-48db1e29bf47.png" /></a>
+  <a href="https://wonderfulyou.netlify.app/"><img src="https://user-images.githubusercontent.com/40047791/172757950-fe38aee2-0420-4264-9064-db48ece9ac9e.png" /></a>
+</p>
+
+##
+<br>
+<br>
+
   <h1 align="center"> :hibiscus: Serenity Coaching Services </h1>
 
 <p align="center">
