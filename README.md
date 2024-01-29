@@ -130,7 +130,7 @@
 <br>
 <br>
 
-<h1 align="center"> 👗 Wonderful Management - Brand Management Company </h1>
+<h1 align="center"> 👗Wonderful Management - Brand Management Company </h1>
 
   <p align="center">
     <h3 align="center">This project presents the official website for Wonderful Management, LLC, a dynamic brand management company. The website is designed to showcase the company's expertise in elevating the brands of influencers, creators, emerging stars, and professionals.</h3>
