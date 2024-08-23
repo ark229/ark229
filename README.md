@@ -14,27 +14,27 @@
 
 <h3 align="center"> Find out more at: https://knightdevonline.com </h3>
 <h3 align="center">
-   MY RESUME: https://github.com/ark229/ark229/files/12494601/1-Resume-Knight-3-PA.pdf
+   <!-- MY RESUME: COMING SOON! -->
 </h3>
 
-<p align="center"> I'm a Records & Information Program Manager (Enterprise IT Services) who also serves as an Adjunct Professor, teaching Computer Science with Python and Java, and Web Development at the post-secondary level. I also tutor younger students and introduce them to computer science concepts in the Scratch programming language.</h3>
+<p align="center"> I'm a Product Manager in the Scientific Data Management, Lifecycle Assessment field. I also serve as an Adjunct Professor, teaching Computer Science (with Python and Java) and Web Development at the University level. I tutor younger students and introduce them to computer science concepts in the Scratch programming language.</h3>
 
 <br>
 
 <h1 align="center"> 👩🏾‍🎓 Education: </h1>
 
 <p align="center">
- 1. Associate Degree - Thomas Nelson Community College - Administrative Support Technology & Medical Office Administration
+ 1. Doctoral Candidate - Franklin University - Doctor of Business Administration, Information Technology Focus
 </p>
 <p align="center">
- 2. Bachelor Degree - Colorado State University Global - Management Information Systems and Business Analytics, Specialization in IT Management
+ 2. Masters Degree - Maryville University of Saint Louis - Software Development
 </p>
 <p align="center">
- 3. Masters Degree - Maryville University of Saint Louis - Software Development. 
+ 3. Bachelor's Degree - Colorado State University Global - Management Information Systems & Business Analytics, Focus in IT Management 
 </p>
 </p>
 <p align="center">
- 4. Doctoral Student - Franklin University - Doctor of Business Adminstration, Information Technology Focus 
+ 4. Associate Degree - Thomas Nelson Community College - Administrative Support Technology & Medical Office Administration
 </p>
 
 
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/knightdevonline/"><img src="https://img.icons8.com/color/80/000000/facebook-new.png"></a>
-  <a href="https://twitter.com/ArnettaReneeDev"><img src="https://img.icons8.com/color/80/000000/twitter--v1.png" /></a>
+  <a href="#"><img src="https://img.icons8.com/color/80/000000/twitter--v1.png" /></a> <!-- Twitter icon. The link has been removed until replaced with updated page -->
   <a href="https://www.linkedin.com/in/arnetta-knight/"><img src="https://img.icons8.com/color/80/000000/linkedin-circled--v1.png"/></a>
 </p>
 
